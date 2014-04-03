@@ -1,0 +1,12 @@
+#top_div {
+	background-color: black;
+	position: relative;
+	height: 50px;
+	width: 2012px;
+	right: 100px;
+	bottom: 20px;
+}
+
+body {
+	background: #F8F8F8 ;
+}
