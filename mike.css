@@ -9,6 +9,9 @@
 
 #left_border {
 	background-color: black;
+	position:absolute;
+	height: 100000px;
+	width: 10000px;
 	
 }
 
