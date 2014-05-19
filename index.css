@@ -33,11 +33,12 @@ header {
 	padding-right: 15px;*/
 	font: sans-serif;
   	padding: -7px;
+  	text-decoration: none;
 }
 
-/*.nav li:hover {
-	background-color: #A3D1FF;
-}*/
+.nav li:hover {
+	color: #EDEDED;
+}
 
 .nav .container {
 	padding: 0;
@@ -50,9 +51,9 @@ header {
 	
 }
 
-#border_right {
+/*#border_right {
 	border-right: 1px solid #CCCCCC;
-}
+}*/
 
 #banner {
 	position: relative;
